@@ -1,0 +1,174 @@
+body
+{
+  font-family: 'Inter', sans-serif;
+
+}
+p{
+  font-size: 15px;
+}
+div
+{
+  margin: 10px auto;
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+.container-fluid
+{
+  padding: 3%  5%;
+}
+
+
+/*navbar*/
+.nav-item
+{
+ /*padding-right: 5px;
+  padding-left: 5px;*/
+  font-family: 'Inter-bold', sans-serif;
+  font-size: 1.2rem;
+
+
+}
+.bodyitems
+{
+  margin-right: 0px;
+}
+.nav-link{
+  color: #40514E;
+}
+.nav-link:hover
+{
+  color: #FF1E00;
+}
+/*container1*/
+.web3{
+  height:400px;
+  width:770px;
+}
+.heading
+{
+  font-size:40px;
+  width: 80%;
+  font-weight: bold;
+
+}
+hr
+{
+  border-color: #EAF6F6;
+    border-top-style: solid;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+
+    margin: 40px auto;
+
+
+}
+.container2
+{
+  margin: 5px 20px;
+  padding: 30px;
+
+  background-color: #000000;
+}
+.container2c>a
+{
+  padding: 10px 30px;
+  background-color: #FF1E00;
+  margin:auto;
+  width: 80px;
+  color: #EAF6F6;
+  letter-spacing: 2px;
+}
+.container2c>a:hover
+{
+  background-color: #000000;
+}
+.para1{
+  width: 100%;
+  margin-bottom: 40px;
+}
+.container1
+{
+  margin-top: 20px;
+}
+/*newscontainer*/
+.container2
+{
+  padding: 10px;
+  background-color: #000000;
+
+}
+.container2>p
+{
+  margin-top: 2%;
+  margin-bottom: 3%;
+  width: 80%;
+  color: #EAF6F6;
+}
+.container2>h3
+{
+  margin-top: auto;
+  margin-bottom: 4%;
+  font-size: 40px;
+  color: #FF9551;
+}
+.container2>a
+{
+  margin: auto;
+  margin-bottom: 2%;
+  font-size: 20px;
+  width: 80%;
+  color: #EAF6F6;
+}
+.container2>a:hover
+{
+color: #FF9551;
+}
+/* lastcontainer*/
+.row
+{
+  margin-top: 50px;
+}
+.retro
+{
+  height: 200px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.top{
+  height: 200px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.game
+{
+  height: 200px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.footerlink
+{
+  margin-left:auto;
+  font-weight: bold;
+ font-size: 20px;
+  color: #000000;
+
+}
+.footerlink:hover
+{
+  color: #FF1E00;
+}
+
+.num
+{
+  font-size: 30px;
+  color: #CFD2CF;
+}
